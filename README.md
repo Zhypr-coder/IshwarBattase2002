@@ -26,6 +26,10 @@
 
 ## 🧬 Who Am I?
 
+<table>
+<tr>
+<td width="60%">
+
 ```yaml
 name: Ishwar Battase
 role: DevOps Engineer | Software Test Engineer
@@ -39,6 +43,13 @@ languages: Java, SQL
 currently_learning: Kubernetes, Docker
 fun_fact: I automate things so I don't have to do them twice 😄
 ```
+
+</td>
+<td width="40%">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHF6bGd3enk1d2dibzU1cG80a253NDZ0bjQ3aHJvcnR6d2JkaDZiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
