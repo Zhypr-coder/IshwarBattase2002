@@ -6,12 +6,11 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f005c,50:5b0060,100:870160&height=220&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f005c,50:5b0060,100:870160&height=220&section=header&text=Ishwar%20Battase&fontSize=55&fontColor=ffffff&fontAlignY=40" width="100%"/>
 
 </div>
 
 <div align="center">
-  <h1>Ishwar Battase</h1>
   <p>📧 irbttase2002@gmail.com</p>
 </div>
 
