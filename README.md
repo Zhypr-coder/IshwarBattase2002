@@ -8,13 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f005c,50:5b0060,100:870160&height=220&section=header&text=Ishwar%20Battase&fontSize=55&fontColor=ffffff&fontAlignY=30&fontFamily=Poppins&desc=DevOps%20Engineer%20%7C%20Software%20Test%20Engineer&descSize=20&descAlignY=55&descColor=ffffff" width="100%"/>
 
-</div>
-
-<div align="center">
-  <p>📧 irbttase2002@gmail.com</p>
-</div>
-
-<div align="center">
+<img src="https://raw.githubusercontent.com/IshwarBattase2002/IshwarBattase2002/main/banner.jpeg" width="100%"/>
 
 ### 🚀 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Automating+infra%2C+one+pipeline+at+a+time...;DevOps+Engineer+%7C+Software+Test+Engineer;CI%2FCD+%7C+Cloud+%7C+Test+Automation" alt="Typing SVG" />
 
