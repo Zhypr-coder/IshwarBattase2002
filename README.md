@@ -22,3 +22,64 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f005c,100:870160&height=4&width=100%25" width="100%"/>
+
+---
+
+## 🧬 Who Am I?
+
+```yaml
+name: Ishwar Battase
+role: DevOps Engineer | Software Test Engineer
+location: India 🇮🇳
+focus:
+  - CI/CD Pipelines (Jenkins)
+  - Infrastructure as Code (Terraform, Ansible)
+  - Test Automation (Selenium, TestNG, JUnit)
+  - Cloud Platforms (AWS)
+languages: Java, SQL
+currently_learning: Kubernetes, Docker
+fun_fact: I automate things so I don't have to do them twice 😄
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,jenkins,aws,terraform,ansible,selenium,postman,java,mysql" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/TestNG-EE4444?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=IshwarBattase2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshwarBattase2002&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IshwarBattase2002&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshwarBattase2002&theme=tokyo-night&hide_border=true" width="90%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Connect With Me
+
+<a href="mailto:irbttase2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/IshwarBattase2002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f005c,50:5b0060,100:870160&height=120&section=footer" width="100%"/>
