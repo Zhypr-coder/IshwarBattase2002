@@ -37,7 +37,7 @@ location: India 🇮🇳
 focus:
   - CI/CD Pipelines (Jenkins)
   - Infrastructure as Code (Terraform, Ansible)
-  - Test Automation (Selenium, TestNG, JUnit)
+  - Test Automation (Selenium, TestNG)
   - Cloud Platforms (AWS)
 languages: Java, SQL
 currently_learning: Kubernetes, Docker
@@ -63,7 +63,6 @@ fun_fact: I automate things so I don't have to do them twice 😄
 
 <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/TestNG-EE4444?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
 
 </div>
 
