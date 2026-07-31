@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f005c,50:5b0060,100:870160&height=220&section=header&text=Ishwar%20Battase&fontSize=55&fontColor=ffffff&fontAlignY=40&fontFamily=Poppins" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f005c,50:5b0060,100:870160&height=220&section=header&text=Ishwar%20Battase&fontSize=55&fontColor=ffffff&fontAlignY=30&fontFamily=Poppins&desc=DevOps%20Engineer%20%7C%20Software%20Test%20Engineer&descSize=20&descAlignY=55&descColor=ffffff" width="100%"/>
 
 </div>
 
