@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/OPEN%20SOURCE-%E2%9D%A4-8a2be2?style=for-the-badge" />
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f005c,50:5b0060,100:870160&height=220&section=header&text=Ishwar%20Battase&fontSize=55&fontColor=ffffff&fontAlignY=30&fontFamily=Poppins&desc=DevOps%20Engineer%20%7C%20Software%20Test%20Engineer&descSize=20&descAlignY=55&descColor=ffffff" width="100%"/>
-<img src="https://raw.githubusercontent.com/IshwarBattase2002/IshwarBattase2002/main/banner.gif" width="100%"
+<img src="https://github.com/Zhypr-coder/IshwarBattase2002/blob/main/banner.gif" width="100%"
    style="border-radius:20px; box-shadow: 0 0 40px rgba(0, 255, 136, 0.4); margin: 16px 0;"/>
 ### 🚀 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Automating+infra%2C+one+pipeline+at+a+time...;DevOps+Engineer+%7C+Software+Test+Engineer;CI%2FCD+%7C+Cloud+%7C+Test+Automation" alt="Typing SVG" />
 </div>
